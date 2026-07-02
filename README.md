@@ -53,7 +53,6 @@ An end-to-end learned video compression pipeline built in PyTorch, designed to f
 
 ## Results
 - **28.07 dB PSNR** (MSE: 0.0016)
-- **-5.49 bpp** rate
 - Trainable within **8GB GPU** memory
 
 ## Tech Stack
